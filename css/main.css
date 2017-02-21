@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+/*.logo {
+  font-family: 'Sarina', cursive;
+  text-align: center;
+  font-size: 62px;
+}*/
+
+.jumbotron h1 {
+  text-align: center;
+  font-family: 'Sarina', cursive;
+}
+
+.jumbotron p {
+  font-family: sans-serif;
+  text-align: center;
+}
