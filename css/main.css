@@ -17,3 +17,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.carousel-inner {
+  height: 450px;
+  width: 1920px;
+}
+
+.carousel-control.left {
+  height: 450px;
+  width: 190px;
+}
+
+.carousel-control.right {
+  height: 450px;
+  width: 190px;
+}
