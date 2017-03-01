@@ -16,6 +16,7 @@
 .jumbotron p {
   font-family: sans-serif;
   text-align: center;
+  font-size: 16px;
 }
 
 .carousel-inner {
