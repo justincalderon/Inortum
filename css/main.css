@@ -8,6 +8,10 @@
   font-size: 62px;
 }*/
 
+.jumbotron {
+  margin-bottom: 0;
+}
+
 .jumbotron h1 {
   text-align: center;
   font-family: 'Sarina', cursive;
