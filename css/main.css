@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-  background: darkgrey;
+  background: #333333;
   height: 60px;
   left: 0;
   right: 0;
@@ -14,7 +14,7 @@ nav {
 }
 
 nav > a {
-	color:  black;
+	color:  white;
 	font-family: 'Sarina', sans-serif;
 	font-size: 26px;
 	font-weight: 700;
@@ -28,16 +28,17 @@ nav > a {
 nav ul {
   position: absolute;
   right: 25px;
-  top: 5px;
+  top: 20px;
 }
 
 nav li {
   display: inline-block;
   padding: 0 15px;
+  color: #80e3a9
 }
 
 nav li > a {
-  color: black;
+  color: white;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -46,6 +47,13 @@ nav li > a {
 nav li > a:hover,
 nav li > a:focus {
   color: #80e3a9;
+  text-decoration: none;
+}
+
+.projectSec {
+  text-align: center;
+  margin: 25px;
+  /*font-family: sans-serif;*/
 }
 
 .jumbotron {
