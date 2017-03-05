@@ -18,3 +18,11 @@ body {
 header {
   background: url(../img/headerbg.png);
 }
+
+.col-xs-6 {
+  padding-top: 50px;
+}
+
+.projectSec {
+  text-align: center;
+}
