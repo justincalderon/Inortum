@@ -1,28 +1,20 @@
 body {
-  padding-top: 53px;
+  padding-top: 51px;
 }
 
-.navbar-brand {
+.navbar-brand > img {
+  height: 38px;
+  display: inline;
+  margin-top: -8px;
+  margin-right: 7px;
+}
+
+.navbar-header > .navbar-brand {
   font-family: 'Sarina', cursive;
+  color: #80e3a9;
+  font-size: 28px;
 }
 
-.projectSec {
-  text-align: center;
-  margin: 25px;
-  /*font-family: sans-serif;*/
-}
-
-.jumbotron {
-  padding-top: 10px;
-}
-
-.jumbotron h1 {
-  text-align: center;
-  font-family: 'Sarina', cursive;
-}
-
-.jumbotron p {
-  font-family: sans-serif;
-  text-align: center;
-  font-size: 12px;
+header {
+  background: url(../img/headerbg.png);
 }
