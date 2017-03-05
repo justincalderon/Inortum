@@ -1,53 +1,9 @@
 body {
-  padding-top: 50px;
-  margin: 0;
+  padding-top: 53px;
 }
 
-nav {
-  background: #333333;
-  height: 60px;
-  left: 0;
-  right: 0;
-  top: 0;
-  z-index: 100;
-  position: fixed;
-}
-
-nav > a {
-	color:  white;
-	font-family: 'Sarina', sans-serif;
-	font-size: 26px;
-	font-weight: 700;
-	left: 25px;
-	position: absolute;
-	text-align: left;
-	text-decoration: none;
-	top: 10px;
-}
-
-nav ul {
-  position: absolute;
-  right: 25px;
-  top: 20px;
-}
-
-nav li {
-  display: inline-block;
-  padding: 0 15px;
-  color: #80e3a9
-}
-
-nav li > a {
-  color: white;
-  text-decoration: none;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
-
-nav li > a:hover,
-nav li > a:focus {
-  color: #80e3a9;
-  text-decoration: none;
+.navbar-brand {
+  font-family: 'Sarina', cursive;
 }
 
 .projectSec {
@@ -57,7 +13,7 @@ nav li > a:focus {
 }
 
 .jumbotron {
-  margin-bottom: 0;
+  padding-top: 10px;
 }
 
 .jumbotron h1 {
