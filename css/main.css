@@ -23,6 +23,14 @@ header {
   padding-top: 50px;
 }
 
+.form-horizontal {
+  background-color: #333333;
+}
+
+.form-control {
+  width: 300px;
+}
+
 .projectSec {
   text-align: center;
 }
