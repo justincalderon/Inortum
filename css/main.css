@@ -31,7 +31,7 @@ header {
 
 /* MEDIA QUERY */
 @media only screen and (max-width: 321px) {
-    .log-in-form {
-      
+    .row2 > input {
+      max-width: 100px;
     }
 }
