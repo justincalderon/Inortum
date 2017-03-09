@@ -19,18 +19,7 @@ header {
   background: url(../img/headerbg.png);
 }
 
+/* Sign up form */
 .col-xs-6 {
-  padding-top: 50px;
-}
-
-.form-horizontal {
-  background-color: #333333;
-}
-
-.form-control {
-  width: 300px;
-}
-
-.projectSec {
-  text-align: center;
+  padding-left: 50px;
 }
