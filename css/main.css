@@ -16,10 +16,14 @@ body {
 }
 
 header {
-  background: url(../img/headerbg.png);
+  background: url(../img/headerbg4.png);
+  background-size: contain;
+}
+
+.header-content5 {
+  font-size: 12px;
 }
 
 /* Sign up form */
 .col-xs-6 {
-  padding-left: 50px;
 }
