@@ -23,6 +23,10 @@ header {
   font-size: 12px;
 }
 
+.col-xs-6 > input {
+  display: block;
+}
+
 /* Sign up form */
 .caption {
   text-align: center;
@@ -30,7 +34,5 @@ header {
 
 /* MEDIA QUERY */
 @media only screen and (max-width: 321px) {
-    .row2 > input {
-      max-width: 100px;
-    }
+
 }
