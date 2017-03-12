@@ -1,38 +1,5 @@
-body {
-  padding-top: 51px;
-}
-
-.navbar-brand > img {
-  height: 38px;
-  display: inline;
-  margin-top: -8px;
-  margin-right: 7px;
-}
-
-.navbar-header > .navbar-brand {
-  font-family: 'Sarina', cursive;
-  color: #80e3a9;
-  font-size: 28px;
-}
-
-header {
-  background: url(../img/headerbg4.png);
-}
-
-.header-content5 {
-  font-size: 12px;
-}
-
-.col-xs-6 > input {
-  display: block;
-}
-
-/* Sign up form */
-.caption {
-  text-align: center;
-}
-
-/* MEDIA QUERY */
-@media only screen and (max-width: 321px) {
-
+.selector-for-some-widget {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
 }
